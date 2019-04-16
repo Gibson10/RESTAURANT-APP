@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "940208145505",
+    "firebase_url": "https://afghan-house-3c5b7.firebaseio.com",
+    "project_id": "afghan-house-3c5b7",
+    "storage_bucket": "afghan-house-3c5b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940208145505:android:9d0765f2f912078a",
+        "android_client_info": {
+          "package_name": "com.chrisandgib.afghani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940208145505-85o909toeisspc5have4vf4ha8gme9nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Z2YE8CVammh4eHYFEnPINeBwqVxk4qM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940208145505:android:46fd79b5a0db271e",
+        "android_client_info": {
+          "package_name": "com.chrisandgib.cakes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940208145505-85o909toeisspc5have4vf4ha8gme9nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Z2YE8CVammh4eHYFEnPINeBwqVxk4qM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940208145505:android:e565142fe27bda30",
+        "android_client_info": {
+          "package_name": "com.chrisandgib.gibz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940208145505-85o909toeisspc5have4vf4ha8gme9nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Z2YE8CVammh4eHYFEnPINeBwqVxk4qM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940208145505:android:1cf6b29da03467ea",
+        "android_client_info": {
+          "package_name": "com.chrisandgib.afghani23"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940208145505-85o909toeisspc5have4vf4ha8gme9nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Z2YE8CVammh4eHYFEnPINeBwqVxk4qM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
